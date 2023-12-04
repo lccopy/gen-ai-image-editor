@@ -6,7 +6,7 @@
 
 ### Usage
 
-- pip install requirements.txt
+- pip install -r requirements.txt
 - streamlit run app.py
 - put OpenAI API key in the field
 - upload an image (.jpg or .png)

@@ -1,0 +1,5 @@
+openai
+tensorflow==2.15.0
+streamlit
+pillow
+tf-bodypix

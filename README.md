@@ -9,7 +9,7 @@
 - pip install -r requirements.txt
 - streamlit run app.py
 - put OpenAI API key in the field
-- upload an image (.jpg or .png)
+- upload an image (.jpg or .png, 4MB max)
 - choose the desired options
 - enter a prompt for the AI to generate the new part of the image
 - click "Edit Image"
